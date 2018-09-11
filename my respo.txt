@@ -1,0 +1,4 @@
+﻿https://github.com/brucebinh/brucebinh.github.io.git
+git pull --rebase https://github.com/brucebinh/brucebinh.github.io.git
+
+

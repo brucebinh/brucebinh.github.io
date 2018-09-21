@@ -7,7 +7,7 @@ highlighter: rouge
 markdown: kramdown
 disqus: Bui Danh Binh
 google_analytics: dbyll
-title: abc-dbyll
+title: Bui Danh Binh
 
 defaults:
   -

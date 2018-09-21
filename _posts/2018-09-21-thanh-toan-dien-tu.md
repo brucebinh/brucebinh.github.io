@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Các phương thức thanh toán tiền mua hàng
-categories: [Ngoai Thuong, Thanh Toan Quoc Te]
+categories: [NgoaiThuong, ThanhToanQuocTe]
 tags: [thanhtoan, ngoaithuong]
 description: Hiện nay các phương thức thanh toán rất đa dạng, phong phú, bao gồm thanh toán dùng tiền mặt và thanh toán không dùng tiền mặt
 ---

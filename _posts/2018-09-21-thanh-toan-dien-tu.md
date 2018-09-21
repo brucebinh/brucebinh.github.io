@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Phương thức thanh toán
-categories: [Nghiệp vụ ngoại thương, Thanh toán quốc tế]
+title: Các phương thức thanh toán tiền mua hàng
+categories: [Nghiệp_vụ_ngoại_thương, Thanh_toán_quốc_tế]
 tags: [thanhtoan, ngoaithuong]
-description: Phương thức thanh toán.
+description: Hiện nay các phương thức thanh toán rất đa dạng, phong phú, bao gồm thanh toán dùng tiền mặt và thanh toán không dùng tiền mặt
 ---
 
 1. DP là Document against payment: nếu khi nhận được hồi phiếu mà thanh toán luôn thì sẽ nhận được document để đi nhận hàng.

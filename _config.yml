@@ -14,9 +14,9 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: title-dbyll-defaults
+      title: My Personal Blog
 
-description: Stylish Jekyll Theme
+description: description Theme
 author:
   name: brucebinh
   email: brucebinh@gmail.com
@@ -24,7 +24,7 @@ author:
   twitter: brucebinh
   pinterest: brucebinh
   linkedin: brucebinh
-  bio: Your stylish, minimalist theme!
+  bio: Con đường chẳng mấy ai đi...
   email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml

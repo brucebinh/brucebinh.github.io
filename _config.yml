@@ -16,20 +16,20 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en"
-title                    : "4brunu.github.io"
+title                    : "brucebinh.github.io"
 title_separator          : "-"
-name                     : "Bruno Coelho"
+name                     : "bui danh binh"
 description              : "iOS, Android and Code"
-url                      : "https://4brunu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://brucebinh.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "4brunu/4brunu.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "brucebinh/brucebinh.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : 4brunu-github-io # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : brucebinh-github-io # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -75,7 +75,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "4brunu"
+  username               : "brucebinh"
 facebook:
   username               :
   app_id                 :
@@ -98,10 +98,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bruno Coelho"
+  name             : "Bui Danh Binh"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Software Engineer | iOS | Android"
-  location         : "Portugal"
+  location         : "Viet Nam"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -111,19 +111,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "4brunu"
+  github           : "brucebinh"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "4brunu" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "brucebinh" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
-  stackoverflow    : "976628/bruno-coelho" # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  stackoverflow    :  # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "4brunu"
+  twitter          : "brucebinh"
   vine             :
   weibo            :
   xing             :
@@ -289,8 +289,8 @@ defaults:
 # repo defaults to USERNAME.github.io
 # Branch defaults to "source" for USERNAME.github.io
 # or "master" otherwise
-username: 4brunu
-repo: 4brunu.github.io
-source_branch: source
-destination_brach: master
-destination: ../gh-pages/
+username: brucebinh
+repo: brucebinh.github.io
+#source_branch: source
+#destination_brach: master
+#destination: ../gh-pages/

@@ -6,7 +6,7 @@ tags: [thanhtoan, ngoaithuong, xnk]
 description: Trang web không đi sâu vào các vấn đề chuyên môn mà chủ yếu viết bài dưới góc độ chia sẻ các kiên thức và kinh nghiệm làm nghề
 ---
 
-hương mại Quốc tế, Ngoại thương, Xuất nhập khẩu?​
+Thương mại Quốc tế, Ngoại thương, Xuất nhập khẩu?​
 Nếu bạn đang bắt đầu tìm hiểu Xuất nhập khẩu để làm việc hoặc tự kinh doanh thì đây là những điều cơ bản cần nắm rõ để thực hiện hiệu quả kế hoạch của bạn.
 ​​Ở góc độ học thuật tất nhiên các khái niệm này là khác nhau, tuy nhiên đối với những người tìm hiểu để đi làm hoặc kinh doanh thì 3 khái niệm trên có 1 điểm chung là đều nói đến các hoạt động mua bán hàng hóa với thị trường nước ngoài, thanh toán qua ngân hàng bằng ngoại tệ và vận tải bằng tàu biển hoặc máy bay.
 Cần chú ý, các quốc gia có thể giao thương với nhau dưới nhiều hình thức (xuất khẩu lao động, đầu tư, chuyển giao công nghệ, nhượng quyền thương mại... ) nhưng trong giới hạn Xuất nhập khẩu chúng ta thường chỉ xét đến Xuất nhập khẩu hàng hóa hữu hình, có sự di chuyển qua biên giới hải quan giữa các quốc gia và vùng lãnh thổ.
